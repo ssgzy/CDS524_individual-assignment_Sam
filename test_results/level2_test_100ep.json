@@ -1,0 +1,1027 @@
+{
+  "level": 2,
+  "num_episodes": 100,
+  "total_success": 0,
+  "success_rate": 0.0,
+  "total_timeout": 99,
+  "total_deadlock": 1,
+  "avg_reward": 713.2832000000012,
+  "avg_length": 198.21,
+  "avg_visited_states": 5.75,
+  "training_time": 1524.2626230716705,
+  "reward_stats": {
+    "min": -98.90499999999996,
+    "max": 755.0300000000015,
+    "mean": 713.2832000000012,
+    "std": 174.70437202817826,
+    "median": 755.0300000000015
+  },
+  "length_stats": {
+    "min": 21,
+    "max": 200,
+    "mean": 198.21,
+    "median": 200.0
+  },
+  "episodes": [
+    {
+      "episode": 1,
+      "reward": -52.65,
+      "length": 21,
+      "success": false,
+      "timeout": false,
+      "deadlock": true,
+      "visited_states": 13,
+      "buffer_size": 19
+    },
+    {
+      "episode": 2,
+      "reward": -98.90499999999996,
+      "length": 200,
+      "success": false,
+      "timeout": true,
+      "deadlock": false,
+      "visited_states": 24,
+      "buffer_size": 219
+    },
+    {
+      "episode": 3,
+      "reward": -62.18000000000011,
+      "length": 200,
+      "success": false,
+      "timeout": true,
+      "deadlock": false,
+      "visited_states": 23,
+      "buffer_size": 419
+    },
+    {
+      "episode": 4,
+      "reward": -50.05499999999999,
+      "length": 200,
+      "success": false,
+      "timeout": true,
+      "deadlock": false,
+      "visited_states": 16,
+      "buffer_size": 619
+    },
+    {
+      "episode": 5,
+      "reward": 52.58500000000011,
+      "length": 200,
+      "success": false,
+      "timeout": true,
+      "deadlock": false,
+      "visited_states": 17,
+      "buffer_size": 819
+    },
+    {
+      "episode": 6,
+      "reward": 566.7050000000015,
+      "length": 200,
+      "success": false,
+      "timeout": true,
+      "deadlock": false,
+      "visited_states": 12,
+      "buffer_size": 1019
+    },
+    {
+      "episode": 7,
+      "reward": 755.0300000000015,
+      "length": 200,
+      "success": false,
+      "timeout": true,
+      "deadlock": false,
+      "visited_states": 5,
+      "buffer_size": 1219
+    },
+    {
+      "episode": 8,
+      "reward": 755.0300000000015,
+      "length": 200,
+      "success": false,
+      "timeout": true,
+      "deadlock": false,
+      "visited_states": 5,
+      "buffer_size": 1419
+    },
+    {
+      "episode": 9,
+      "reward": 755.0300000000015,
+      "length": 200,
+      "success": false,
+      "timeout": true,
+      "deadlock": false,
+      "visited_states": 5,
+      "buffer_size": 1619
+    },
+    {
+      "episode": 10,
+      "reward": 755.0300000000015,
+      "length": 200,
+      "success": false,
+      "timeout": true,
+      "deadlock": false,
+      "visited_states": 5,
+      "buffer_size": 1819
+    },
+    {
+      "episode": 11,
+      "reward": 755.0300000000015,
+      "length": 200,
+      "success": false,
+      "timeout": true,
+      "deadlock": false,
+      "visited_states": 5,
+      "buffer_size": 2019
+    },
+    {
+      "episode": 12,
+      "reward": 755.0300000000015,
+      "length": 200,
+      "success": false,
+      "timeout": true,
+      "deadlock": false,
+      "visited_states": 5,
+      "buffer_size": 2219
+    },
+    {
+      "episode": 13,
+      "reward": 755.0300000000015,
+      "length": 200,
+      "success": false,
+      "timeout": true,
+      "deadlock": false,
+      "visited_states": 5,
+      "buffer_size": 2419
+    },
+    {
+      "episode": 14,
+      "reward": 755.0300000000015,
+      "length": 200,
+      "success": false,
+      "timeout": true,
+      "deadlock": false,
+      "visited_states": 5,
+      "buffer_size": 2619
+    },
+    {
+      "episode": 15,
+      "reward": 755.0300000000015,
+      "length": 200,
+      "success": false,
+      "timeout": true,
+      "deadlock": false,
+      "visited_states": 5,
+      "buffer_size": 2819
+    },
+    {
+      "episode": 16,
+      "reward": 755.0300000000015,
+      "length": 200,
+      "success": false,
+      "timeout": true,
+      "deadlock": false,
+      "visited_states": 5,
+      "buffer_size": 3019
+    },
+    {
+      "episode": 17,
+      "reward": 755.0300000000015,
+      "length": 200,
+      "success": false,
+      "timeout": true,
+      "deadlock": false,
+      "visited_states": 5,
+      "buffer_size": 3219
+    },
+    {
+      "episode": 18,
+      "reward": 755.0300000000015,
+      "length": 200,
+      "success": false,
+      "timeout": true,
+      "deadlock": false,
+      "visited_states": 5,
+      "buffer_size": 3419
+    },
+    {
+      "episode": 19,
+      "reward": 755.0300000000015,
+      "length": 200,
+      "success": false,
+      "timeout": true,
+      "deadlock": false,
+      "visited_states": 5,
+      "buffer_size": 3619
+    },
+    {
+      "episode": 20,
+      "reward": 755.0300000000015,
+      "length": 200,
+      "success": false,
+      "timeout": true,
+      "deadlock": false,
+      "visited_states": 5,
+      "buffer_size": 3819
+    },
+    {
+      "episode": 21,
+      "reward": 755.0300000000015,
+      "length": 200,
+      "success": false,
+      "timeout": true,
+      "deadlock": false,
+      "visited_states": 5,
+      "buffer_size": 4019
+    },
+    {
+      "episode": 22,
+      "reward": 755.0300000000015,
+      "length": 200,
+      "success": false,
+      "timeout": true,
+      "deadlock": false,
+      "visited_states": 5,
+      "buffer_size": 4219
+    },
+    {
+      "episode": 23,
+      "reward": 755.0300000000015,
+      "length": 200,
+      "success": false,
+      "timeout": true,
+      "deadlock": false,
+      "visited_states": 5,
+      "buffer_size": 4419
+    },
+    {
+      "episode": 24,
+      "reward": 755.0300000000015,
+      "length": 200,
+      "success": false,
+      "timeout": true,
+      "deadlock": false,
+      "visited_states": 5,
+      "buffer_size": 4619
+    },
+    {
+      "episode": 25,
+      "reward": 755.0300000000015,
+      "length": 200,
+      "success": false,
+      "timeout": true,
+      "deadlock": false,
+      "visited_states": 5,
+      "buffer_size": 4819
+    },
+    {
+      "episode": 26,
+      "reward": 755.0300000000015,
+      "length": 200,
+      "success": false,
+      "timeout": true,
+      "deadlock": false,
+      "visited_states": 5,
+      "buffer_size": 5019
+    },
+    {
+      "episode": 27,
+      "reward": 755.0300000000015,
+      "length": 200,
+      "success": false,
+      "timeout": true,
+      "deadlock": false,
+      "visited_states": 5,
+      "buffer_size": 5219
+    },
+    {
+      "episode": 28,
+      "reward": 755.0300000000015,
+      "length": 200,
+      "success": false,
+      "timeout": true,
+      "deadlock": false,
+      "visited_states": 5,
+      "buffer_size": 5419
+    },
+    {
+      "episode": 29,
+      "reward": 755.0300000000015,
+      "length": 200,
+      "success": false,
+      "timeout": true,
+      "deadlock": false,
+      "visited_states": 5,
+      "buffer_size": 5619
+    },
+    {
+      "episode": 30,
+      "reward": 755.0300000000015,
+      "length": 200,
+      "success": false,
+      "timeout": true,
+      "deadlock": false,
+      "visited_states": 5,
+      "buffer_size": 5819
+    },
+    {
+      "episode": 31,
+      "reward": 755.0300000000015,
+      "length": 200,
+      "success": false,
+      "timeout": true,
+      "deadlock": false,
+      "visited_states": 5,
+      "buffer_size": 6019
+    },
+    {
+      "episode": 32,
+      "reward": 755.0300000000015,
+      "length": 200,
+      "success": false,
+      "timeout": true,
+      "deadlock": false,
+      "visited_states": 5,
+      "buffer_size": 6219
+    },
+    {
+      "episode": 33,
+      "reward": 755.0300000000015,
+      "length": 200,
+      "success": false,
+      "timeout": true,
+      "deadlock": false,
+      "visited_states": 5,
+      "buffer_size": 6419
+    },
+    {
+      "episode": 34,
+      "reward": 755.0300000000015,
+      "length": 200,
+      "success": false,
+      "timeout": true,
+      "deadlock": false,
+      "visited_states": 5,
+      "buffer_size": 6619
+    },
+    {
+      "episode": 35,
+      "reward": 755.0300000000015,
+      "length": 200,
+      "success": false,
+      "timeout": true,
+      "deadlock": false,
+      "visited_states": 5,
+      "buffer_size": 6819
+    },
+    {
+      "episode": 36,
+      "reward": 755.0300000000015,
+      "length": 200,
+      "success": false,
+      "timeout": true,
+      "deadlock": false,
+      "visited_states": 5,
+      "buffer_size": 7019
+    },
+    {
+      "episode": 37,
+      "reward": 755.0300000000015,
+      "length": 200,
+      "success": false,
+      "timeout": true,
+      "deadlock": false,
+      "visited_states": 5,
+      "buffer_size": 7219
+    },
+    {
+      "episode": 38,
+      "reward": 755.0300000000015,
+      "length": 200,
+      "success": false,
+      "timeout": true,
+      "deadlock": false,
+      "visited_states": 5,
+      "buffer_size": 7419
+    },
+    {
+      "episode": 39,
+      "reward": 755.0300000000015,
+      "length": 200,
+      "success": false,
+      "timeout": true,
+      "deadlock": false,
+      "visited_states": 5,
+      "buffer_size": 7619
+    },
+    {
+      "episode": 40,
+      "reward": 755.0300000000015,
+      "length": 200,
+      "success": false,
+      "timeout": true,
+      "deadlock": false,
+      "visited_states": 5,
+      "buffer_size": 7819
+    },
+    {
+      "episode": 41,
+      "reward": 755.0300000000015,
+      "length": 200,
+      "success": false,
+      "timeout": true,
+      "deadlock": false,
+      "visited_states": 5,
+      "buffer_size": 8019
+    },
+    {
+      "episode": 42,
+      "reward": 755.0300000000015,
+      "length": 200,
+      "success": false,
+      "timeout": true,
+      "deadlock": false,
+      "visited_states": 5,
+      "buffer_size": 8219
+    },
+    {
+      "episode": 43,
+      "reward": 755.0300000000015,
+      "length": 200,
+      "success": false,
+      "timeout": true,
+      "deadlock": false,
+      "visited_states": 5,
+      "buffer_size": 8419
+    },
+    {
+      "episode": 44,
+      "reward": 755.0300000000015,
+      "length": 200,
+      "success": false,
+      "timeout": true,
+      "deadlock": false,
+      "visited_states": 5,
+      "buffer_size": 8619
+    },
+    {
+      "episode": 45,
+      "reward": 755.0300000000015,
+      "length": 200,
+      "success": false,
+      "timeout": true,
+      "deadlock": false,
+      "visited_states": 5,
+      "buffer_size": 8819
+    },
+    {
+      "episode": 46,
+      "reward": 755.0300000000015,
+      "length": 200,
+      "success": false,
+      "timeout": true,
+      "deadlock": false,
+      "visited_states": 5,
+      "buffer_size": 9019
+    },
+    {
+      "episode": 47,
+      "reward": 755.0300000000015,
+      "length": 200,
+      "success": false,
+      "timeout": true,
+      "deadlock": false,
+      "visited_states": 5,
+      "buffer_size": 9219
+    },
+    {
+      "episode": 48,
+      "reward": 755.0300000000015,
+      "length": 200,
+      "success": false,
+      "timeout": true,
+      "deadlock": false,
+      "visited_states": 5,
+      "buffer_size": 9419
+    },
+    {
+      "episode": 49,
+      "reward": 755.0300000000015,
+      "length": 200,
+      "success": false,
+      "timeout": true,
+      "deadlock": false,
+      "visited_states": 5,
+      "buffer_size": 9619
+    },
+    {
+      "episode": 50,
+      "reward": 755.0300000000015,
+      "length": 200,
+      "success": false,
+      "timeout": true,
+      "deadlock": false,
+      "visited_states": 5,
+      "buffer_size": 9819
+    },
+    {
+      "episode": 51,
+      "reward": 755.0300000000015,
+      "length": 200,
+      "success": false,
+      "timeout": true,
+      "deadlock": false,
+      "visited_states": 5,
+      "buffer_size": 10019
+    },
+    {
+      "episode": 52,
+      "reward": 755.0300000000015,
+      "length": 200,
+      "success": false,
+      "timeout": true,
+      "deadlock": false,
+      "visited_states": 5,
+      "buffer_size": 10219
+    },
+    {
+      "episode": 53,
+      "reward": 755.0300000000015,
+      "length": 200,
+      "success": false,
+      "timeout": true,
+      "deadlock": false,
+      "visited_states": 5,
+      "buffer_size": 10419
+    },
+    {
+      "episode": 54,
+      "reward": 755.0300000000015,
+      "length": 200,
+      "success": false,
+      "timeout": true,
+      "deadlock": false,
+      "visited_states": 5,
+      "buffer_size": 10619
+    },
+    {
+      "episode": 55,
+      "reward": 755.0300000000015,
+      "length": 200,
+      "success": false,
+      "timeout": true,
+      "deadlock": false,
+      "visited_states": 5,
+      "buffer_size": 10819
+    },
+    {
+      "episode": 56,
+      "reward": 755.0300000000015,
+      "length": 200,
+      "success": false,
+      "timeout": true,
+      "deadlock": false,
+      "visited_states": 5,
+      "buffer_size": 11019
+    },
+    {
+      "episode": 57,
+      "reward": 755.0300000000015,
+      "length": 200,
+      "success": false,
+      "timeout": true,
+      "deadlock": false,
+      "visited_states": 5,
+      "buffer_size": 11219
+    },
+    {
+      "episode": 58,
+      "reward": 755.0300000000015,
+      "length": 200,
+      "success": false,
+      "timeout": true,
+      "deadlock": false,
+      "visited_states": 5,
+      "buffer_size": 11419
+    },
+    {
+      "episode": 59,
+      "reward": 755.0300000000015,
+      "length": 200,
+      "success": false,
+      "timeout": true,
+      "deadlock": false,
+      "visited_states": 5,
+      "buffer_size": 11619
+    },
+    {
+      "episode": 60,
+      "reward": 755.0300000000015,
+      "length": 200,
+      "success": false,
+      "timeout": true,
+      "deadlock": false,
+      "visited_states": 5,
+      "buffer_size": 11819
+    },
+    {
+      "episode": 61,
+      "reward": 755.0300000000015,
+      "length": 200,
+      "success": false,
+      "timeout": true,
+      "deadlock": false,
+      "visited_states": 5,
+      "buffer_size": 12019
+    },
+    {
+      "episode": 62,
+      "reward": 755.0300000000015,
+      "length": 200,
+      "success": false,
+      "timeout": true,
+      "deadlock": false,
+      "visited_states": 5,
+      "buffer_size": 12219
+    },
+    {
+      "episode": 63,
+      "reward": 755.0300000000015,
+      "length": 200,
+      "success": false,
+      "timeout": true,
+      "deadlock": false,
+      "visited_states": 5,
+      "buffer_size": 12419
+    },
+    {
+      "episode": 64,
+      "reward": 755.0300000000015,
+      "length": 200,
+      "success": false,
+      "timeout": true,
+      "deadlock": false,
+      "visited_states": 5,
+      "buffer_size": 12619
+    },
+    {
+      "episode": 65,
+      "reward": 755.0300000000015,
+      "length": 200,
+      "success": false,
+      "timeout": true,
+      "deadlock": false,
+      "visited_states": 5,
+      "buffer_size": 12819
+    },
+    {
+      "episode": 66,
+      "reward": 755.0300000000015,
+      "length": 200,
+      "success": false,
+      "timeout": true,
+      "deadlock": false,
+      "visited_states": 5,
+      "buffer_size": 13019
+    },
+    {
+      "episode": 67,
+      "reward": 755.0300000000015,
+      "length": 200,
+      "success": false,
+      "timeout": true,
+      "deadlock": false,
+      "visited_states": 5,
+      "buffer_size": 13219
+    },
+    {
+      "episode": 68,
+      "reward": 755.0300000000015,
+      "length": 200,
+      "success": false,
+      "timeout": true,
+      "deadlock": false,
+      "visited_states": 5,
+      "buffer_size": 13419
+    },
+    {
+      "episode": 69,
+      "reward": 755.0300000000015,
+      "length": 200,
+      "success": false,
+      "timeout": true,
+      "deadlock": false,
+      "visited_states": 5,
+      "buffer_size": 13619
+    },
+    {
+      "episode": 70,
+      "reward": 755.0300000000015,
+      "length": 200,
+      "success": false,
+      "timeout": true,
+      "deadlock": false,
+      "visited_states": 5,
+      "buffer_size": 13819
+    },
+    {
+      "episode": 71,
+      "reward": 755.0300000000015,
+      "length": 200,
+      "success": false,
+      "timeout": true,
+      "deadlock": false,
+      "visited_states": 5,
+      "buffer_size": 14019
+    },
+    {
+      "episode": 72,
+      "reward": 755.0300000000015,
+      "length": 200,
+      "success": false,
+      "timeout": true,
+      "deadlock": false,
+      "visited_states": 5,
+      "buffer_size": 14219
+    },
+    {
+      "episode": 73,
+      "reward": 755.0300000000015,
+      "length": 200,
+      "success": false,
+      "timeout": true,
+      "deadlock": false,
+      "visited_states": 5,
+      "buffer_size": 14419
+    },
+    {
+      "episode": 74,
+      "reward": 755.0300000000015,
+      "length": 200,
+      "success": false,
+      "timeout": true,
+      "deadlock": false,
+      "visited_states": 5,
+      "buffer_size": 14619
+    },
+    {
+      "episode": 75,
+      "reward": 755.0300000000015,
+      "length": 200,
+      "success": false,
+      "timeout": true,
+      "deadlock": false,
+      "visited_states": 5,
+      "buffer_size": 14819
+    },
+    {
+      "episode": 76,
+      "reward": 755.0300000000015,
+      "length": 200,
+      "success": false,
+      "timeout": true,
+      "deadlock": false,
+      "visited_states": 5,
+      "buffer_size": 15019
+    },
+    {
+      "episode": 77,
+      "reward": 755.0300000000015,
+      "length": 200,
+      "success": false,
+      "timeout": true,
+      "deadlock": false,
+      "visited_states": 5,
+      "buffer_size": 15219
+    },
+    {
+      "episode": 78,
+      "reward": 755.0300000000015,
+      "length": 200,
+      "success": false,
+      "timeout": true,
+      "deadlock": false,
+      "visited_states": 5,
+      "buffer_size": 15419
+    },
+    {
+      "episode": 79,
+      "reward": 755.0300000000015,
+      "length": 200,
+      "success": false,
+      "timeout": true,
+      "deadlock": false,
+      "visited_states": 5,
+      "buffer_size": 15619
+    },
+    {
+      "episode": 80,
+      "reward": 755.0300000000015,
+      "length": 200,
+      "success": false,
+      "timeout": true,
+      "deadlock": false,
+      "visited_states": 5,
+      "buffer_size": 15819
+    },
+    {
+      "episode": 81,
+      "reward": 755.0300000000015,
+      "length": 200,
+      "success": false,
+      "timeout": true,
+      "deadlock": false,
+      "visited_states": 5,
+      "buffer_size": 16019
+    },
+    {
+      "episode": 82,
+      "reward": 755.0300000000015,
+      "length": 200,
+      "success": false,
+      "timeout": true,
+      "deadlock": false,
+      "visited_states": 5,
+      "buffer_size": 16219
+    },
+    {
+      "episode": 83,
+      "reward": 755.0300000000015,
+      "length": 200,
+      "success": false,
+      "timeout": true,
+      "deadlock": false,
+      "visited_states": 5,
+      "buffer_size": 16419
+    },
+    {
+      "episode": 84,
+      "reward": 755.0300000000015,
+      "length": 200,
+      "success": false,
+      "timeout": true,
+      "deadlock": false,
+      "visited_states": 5,
+      "buffer_size": 16619
+    },
+    {
+      "episode": 85,
+      "reward": 755.0300000000015,
+      "length": 200,
+      "success": false,
+      "timeout": true,
+      "deadlock": false,
+      "visited_states": 5,
+      "buffer_size": 16819
+    },
+    {
+      "episode": 86,
+      "reward": 755.0300000000015,
+      "length": 200,
+      "success": false,
+      "timeout": true,
+      "deadlock": false,
+      "visited_states": 5,
+      "buffer_size": 17019
+    },
+    {
+      "episode": 87,
+      "reward": 755.0300000000015,
+      "length": 200,
+      "success": false,
+      "timeout": true,
+      "deadlock": false,
+      "visited_states": 5,
+      "buffer_size": 17219
+    },
+    {
+      "episode": 88,
+      "reward": 755.0300000000015,
+      "length": 200,
+      "success": false,
+      "timeout": true,
+      "deadlock": false,
+      "visited_states": 5,
+      "buffer_size": 17419
+    },
+    {
+      "episode": 89,
+      "reward": 755.0300000000015,
+      "length": 200,
+      "success": false,
+      "timeout": true,
+      "deadlock": false,
+      "visited_states": 5,
+      "buffer_size": 17619
+    },
+    {
+      "episode": 90,
+      "reward": 755.0300000000015,
+      "length": 200,
+      "success": false,
+      "timeout": true,
+      "deadlock": false,
+      "visited_states": 5,
+      "buffer_size": 17819
+    },
+    {
+      "episode": 91,
+      "reward": 755.0300000000015,
+      "length": 200,
+      "success": false,
+      "timeout": true,
+      "deadlock": false,
+      "visited_states": 5,
+      "buffer_size": 18019
+    },
+    {
+      "episode": 92,
+      "reward": 755.0300000000015,
+      "length": 200,
+      "success": false,
+      "timeout": true,
+      "deadlock": false,
+      "visited_states": 5,
+      "buffer_size": 18219
+    },
+    {
+      "episode": 93,
+      "reward": 755.0300000000015,
+      "length": 200,
+      "success": false,
+      "timeout": true,
+      "deadlock": false,
+      "visited_states": 5,
+      "buffer_size": 18419
+    },
+    {
+      "episode": 94,
+      "reward": 755.0300000000015,
+      "length": 200,
+      "success": false,
+      "timeout": true,
+      "deadlock": false,
+      "visited_states": 5,
+      "buffer_size": 18619
+    },
+    {
+      "episode": 95,
+      "reward": 755.0300000000015,
+      "length": 200,
+      "success": false,
+      "timeout": true,
+      "deadlock": false,
+      "visited_states": 5,
+      "buffer_size": 18819
+    },
+    {
+      "episode": 96,
+      "reward": 755.0300000000015,
+      "length": 200,
+      "success": false,
+      "timeout": true,
+      "deadlock": false,
+      "visited_states": 5,
+      "buffer_size": 19019
+    },
+    {
+      "episode": 97,
+      "reward": 755.0300000000015,
+      "length": 200,
+      "success": false,
+      "timeout": true,
+      "deadlock": false,
+      "visited_states": 5,
+      "buffer_size": 19219
+    },
+    {
+      "episode": 98,
+      "reward": 755.0300000000015,
+      "length": 200,
+      "success": false,
+      "timeout": true,
+      "deadlock": false,
+      "visited_states": 5,
+      "buffer_size": 19419
+    },
+    {
+      "episode": 99,
+      "reward": 755.0300000000015,
+      "length": 200,
+      "success": false,
+      "timeout": true,
+      "deadlock": false,
+      "visited_states": 5,
+      "buffer_size": 19619
+    },
+    {
+      "episode": 100,
+      "reward": 755.0300000000015,
+      "length": 200,
+      "success": false,
+      "timeout": true,
+      "deadlock": false,
+      "visited_states": 5,
+      "buffer_size": 19819
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "total_episodes": 500,
+  "final_epsilon": 0.2080684103493951,
+  "curriculum_final_level": 3,
+  "win_rates_by_level": {
+    "1": {
+      "total_episodes": 27,
+      "win_rate": 0.2222222222222222,
+      "total_wins": 6
+    },
+    "2": {
+      "total_episodes": 400,
+      "win_rate": 0.01,
+      "total_wins": 4
+    },
+    "3": {
+      "total_episodes": 73,
+      "win_rate": 0.0,
+      "total_wins": 0
+    },
+    "4": {
+      "total_episodes": 0,
+      "win_rate": 0.0,
+      "total_wins": 0
+    },
+    "5": {
+      "total_episodes": 0,
+      "win_rate": 0.0,
+      "total_wins": 0
+    }
+  },
+  "final_stats": {
+    "avg_reward_last_100": 66.07744999999976,
+    "avg_steps_last_100": 178.41,
+    "max_reward": 712.5099999999995,
+    "min_reward": -259.42500000000035
+  },
+  "hyperparameters": {
+    "learning_rate": 0.0005,
+    "gamma": 0.99,
+    "batch_size": 64,
+    "buffer_capacity": 10000,
+    "epsilon_start": 1.0,
+    "epsilon_end": 0.05,
+    "epsilon_decay": 0.995,
+    "target_update_freq": 500,
+    "curriculum_threshold": 0.5,
+    "curriculum_window": 5
+  }
+}

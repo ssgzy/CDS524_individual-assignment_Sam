@@ -1,0 +1,2502 @@
+[
+  {
+    "episode": 1,
+    "reward": -55.565,
+    "steps": 13
+  },
+  {
+    "episode": 2,
+    "reward": -62.98500000000001,
+    "steps": 40
+  },
+  {
+    "episode": 3,
+    "reward": -65.59500000000001,
+    "steps": 39
+  },
+  {
+    "episode": 4,
+    "reward": -54.085,
+    "steps": 11
+  },
+  {
+    "episode": 5,
+    "reward": -94.11999999999996,
+    "steps": 102
+  },
+  {
+    "episode": 6,
+    "reward": 94.96,
+    "steps": 43
+  },
+  {
+    "episode": 7,
+    "reward": -79.51499999999999,
+    "steps": 95
+  },
+  {
+    "episode": 8,
+    "reward": -54.005,
+    "steps": 9
+  },
+  {
+    "episode": 9,
+    "reward": -72.85,
+    "steps": 62
+  },
+  {
+    "episode": 10,
+    "reward": -61.510000000000005,
+    "steps": 36
+  },
+  {
+    "episode": 11,
+    "reward": -58.74,
+    "steps": 25
+  },
+  {
+    "episode": 12,
+    "reward": -71.06499999999998,
+    "steps": 101
+  },
+  {
+    "episode": 13,
+    "reward": -55.775,
+    "steps": 12
+  },
+  {
+    "episode": 14,
+    "reward": 104.73,
+    "steps": 18
+  },
+  {
+    "episode": 15,
+    "reward": -55.465,
+    "steps": 13
+  },
+  {
+    "episode": 16,
+    "reward": -55.365,
+    "steps": 13
+  },
+  {
+    "episode": 17,
+    "reward": 104.35000000000001,
+    "steps": 18
+  },
+  {
+    "episode": 18,
+    "reward": -56.415,
+    "steps": 18
+  },
+  {
+    "episode": 19,
+    "reward": -50.855000000000004,
+    "steps": 4
+  },
+  {
+    "episode": 20,
+    "reward": -82.22499999999997,
+    "steps": 92
+  },
+  {
+    "episode": 21,
+    "reward": -56.685,
+    "steps": 18
+  },
+  {
+    "episode": 22,
+    "reward": -52.23500000000001,
+    "steps": 8
+  },
+  {
+    "episode": 23,
+    "reward": -60.60000000000001,
+    "steps": 38
+  },
+  {
+    "episode": 24,
+    "reward": -74.48,
+    "steps": 80
+  },
+  {
+    "episode": 25,
+    "reward": 98.81,
+    "steps": 32
+  },
+  {
+    "episode": 26,
+    "reward": 99.88000000000001,
+    "steps": 35
+  },
+  {
+    "episode": 27,
+    "reward": 96.64,
+    "steps": 37
+  },
+  {
+    "episode": 28,
+    "reward": -70.52500000000009,
+    "steps": 201
+  },
+  {
+    "episode": 29,
+    "reward": 1.0849999999999689,
+    "steps": 200
+  },
+  {
+    "episode": 30,
+    "reward": -41.42999999999999,
+    "steps": 28
+  },
+  {
+    "episode": 31,
+    "reward": -47.925,
+    "steps": 32
+  },
+  {
+    "episode": 32,
+    "reward": -46.004999999999995,
+    "steps": 13
+  },
+  {
+    "episode": 33,
+    "reward": -59.589999999999996,
+    "steps": 38
+  },
+  {
+    "episode": 34,
+    "reward": -5.7349999999999,
+    "steps": 183
+  },
+  {
+    "episode": 35,
+    "reward": -46.36,
+    "steps": 12
+  },
+  {
+    "episode": 36,
+    "reward": 36.43499999999985,
+    "steps": 190
+  },
+  {
+    "episode": 37,
+    "reward": -41.42499999999999,
+    "steps": 29
+  },
+  {
+    "episode": 38,
+    "reward": -46.565,
+    "steps": 19
+  },
+  {
+    "episode": 39,
+    "reward": -44.05499999999999,
+    "steps": 8
+  },
+  {
+    "episode": 40,
+    "reward": -31.995000000000005,
+    "steps": 63
+  },
+  {
+    "episode": 41,
+    "reward": 63.899999999999935,
+    "steps": 200
+  },
+  {
+    "episode": 42,
+    "reward": 17.60000000000008,
+    "steps": 81
+  },
+  {
+    "episode": 43,
+    "reward": -35.89499999999998,
+    "steps": 96
+  },
+  {
+    "episode": 44,
+    "reward": -45.004999999999995,
+    "steps": 13
+  },
+  {
+    "episode": 45,
+    "reward": 9.89999999999992,
+    "steps": 179
+  },
+  {
+    "episode": 46,
+    "reward": 145.50000000000074,
+    "steps": 200
+  },
+  {
+    "episode": 47,
+    "reward": -18.55999999999999,
+    "steps": 32
+  },
+  {
+    "episode": 48,
+    "reward": -12.729999999999961,
+    "steps": 56
+  },
+  {
+    "episode": 49,
+    "reward": 115.88000000000002,
+    "steps": 142
+  },
+  {
+    "episode": 50,
+    "reward": 113.30500000000012,
+    "steps": 153
+  },
+  {
+    "episode": 51,
+    "reward": -55.47999999999998,
+    "steps": 46
+  },
+  {
+    "episode": 52,
+    "reward": -57.36999999999999,
+    "steps": 30
+  },
+  {
+    "episode": 53,
+    "reward": -25.434999999999995,
+    "steps": 32
+  },
+  {
+    "episode": 54,
+    "reward": -44.745,
+    "steps": 10
+  },
+  {
+    "episode": 55,
+    "reward": -27.045,
+    "steps": 36
+  },
+  {
+    "episode": 56,
+    "reward": -25.724999999999987,
+    "steps": 29
+  },
+  {
+    "episode": 57,
+    "reward": 0.3200000000000216,
+    "steps": 63
+  },
+  {
+    "episode": 58,
+    "reward": 17.565000000000012,
+    "steps": 45
+  },
+  {
+    "episode": 59,
+    "reward": -13.515,
+    "steps": 55
+  },
+  {
+    "episode": 60,
+    "reward": 32.334999999999944,
+    "steps": 97
+  },
+  {
+    "episode": 61,
+    "reward": 26.975000000000072,
+    "steps": 83
+  },
+  {
+    "episode": 62,
+    "reward": 269.8549999999995,
+    "steps": 200
+  },
+  {
+    "episode": 63,
+    "reward": 183.50500000000082,
+    "steps": 200
+  },
+  {
+    "episode": 64,
+    "reward": 101.48500000000035,
+    "steps": 102
+  },
+  {
+    "episode": 65,
+    "reward": -22.479999999999972,
+    "steps": 44
+  },
+  {
+    "episode": 66,
+    "reward": -55.515,
+    "steps": 22
+  },
+  {
+    "episode": 67,
+    "reward": 44.70499999999995,
+    "steps": 51
+  },
+  {
+    "episode": 68,
+    "reward": 54.265000000000086,
+    "steps": 77
+  },
+  {
+    "episode": 69,
+    "reward": 18.355000000000018,
+    "steps": 48
+  },
+  {
+    "episode": 70,
+    "reward": -44.05499999999999,
+    "steps": 8
+  },
+  {
+    "episode": 71,
+    "reward": -4.065000000000005,
+    "steps": 64
+  },
+  {
+    "episode": 72,
+    "reward": 48.58000000000014,
+    "steps": 65
+  },
+  {
+    "episode": 73,
+    "reward": 268.3149999999994,
+    "steps": 200
+  },
+  {
+    "episode": 74,
+    "reward": 213.72500000000005,
+    "steps": 203
+  },
+  {
+    "episode": 75,
+    "reward": 276.5249999999992,
+    "steps": 200
+  },
+  {
+    "episode": 76,
+    "reward": 111.34999999999965,
+    "steps": 138
+  },
+  {
+    "episode": 77,
+    "reward": 28.505000000000067,
+    "steps": 50
+  },
+  {
+    "episode": 78,
+    "reward": -15.594999999999999,
+    "steps": 27
+  },
+  {
+    "episode": 79,
+    "reward": 5.680000000000014,
+    "steps": 51
+  },
+  {
+    "episode": 80,
+    "reward": 57.610000000000056,
+    "steps": 61
+  },
+  {
+    "episode": 81,
+    "reward": 113.07000000000016,
+    "steps": 147
+  },
+  {
+    "episode": 82,
+    "reward": 279.9850000000002,
+    "steps": 200
+  },
+  {
+    "episode": 83,
+    "reward": 36.080000000000084,
+    "steps": 66
+  },
+  {
+    "episode": 84,
+    "reward": -14.575000000000003,
+    "steps": 23
+  },
+  {
+    "episode": 85,
+    "reward": -45.95,
+    "steps": 11
+  },
+  {
+    "episode": 86,
+    "reward": -15.234999999999992,
+    "steps": 22
+  },
+  {
+    "episode": 87,
+    "reward": 146.26000000000056,
+    "steps": 144
+  },
+  {
+    "episode": 88,
+    "reward": -11.329999999999998,
+    "steps": 44
+  },
+  {
+    "episode": 89,
+    "reward": 177.0450000000002,
+    "steps": 166
+  },
+  {
+    "episode": 90,
+    "reward": 318.82500000000084,
+    "steps": 201
+  },
+  {
+    "episode": 91,
+    "reward": 3.6200000000000188,
+    "steps": 45
+  },
+  {
+    "episode": 92,
+    "reward": 217.05000000000098,
+    "steps": 197
+  },
+  {
+    "episode": 93,
+    "reward": 188.97000000000028,
+    "steps": 161
+  },
+  {
+    "episode": 94,
+    "reward": -43.86,
+    "steps": 15
+  },
+  {
+    "episode": 95,
+    "reward": 245.9999999999994,
+    "steps": 200
+  },
+  {
+    "episode": 96,
+    "reward": 305.145000000001,
+    "steps": 201
+  },
+  {
+    "episode": 97,
+    "reward": 76.44000000000004,
+    "steps": 64
+  },
+  {
+    "episode": 98,
+    "reward": 287.67999999999915,
+    "steps": 200
+  },
+  {
+    "episode": 99,
+    "reward": -37.94,
+    "steps": 20
+  },
+  {
+    "episode": 100,
+    "reward": 35.644999999999975,
+    "steps": 49
+  },
+  {
+    "episode": 101,
+    "reward": -16.915000000000028,
+    "steps": 54
+  },
+  {
+    "episode": 102,
+    "reward": -13.104999999999983,
+    "steps": 24
+  },
+  {
+    "episode": 103,
+    "reward": -43.86,
+    "steps": 9
+  },
+  {
+    "episode": 104,
+    "reward": 296.79500000000047,
+    "steps": 200
+  },
+  {
+    "episode": 105,
+    "reward": 16.935000000000002,
+    "steps": 32
+  },
+  {
+    "episode": 106,
+    "reward": 230.14500000000083,
+    "steps": 160
+  },
+  {
+    "episode": 107,
+    "reward": 272.21999999999997,
+    "steps": 200
+  },
+  {
+    "episode": 108,
+    "reward": 372.84499999999986,
+    "steps": 201
+  },
+  {
+    "episode": 109,
+    "reward": -9.744999999999997,
+    "steps": 36
+  },
+  {
+    "episode": 110,
+    "reward": 383.64500000000083,
+    "steps": 200
+  },
+  {
+    "episode": 111,
+    "reward": -15.574999999999996,
+    "steps": 29
+  },
+  {
+    "episode": 112,
+    "reward": 390.5850000000001,
+    "steps": 200
+  },
+  {
+    "episode": 113,
+    "reward": 310.01000000000016,
+    "steps": 167
+  },
+  {
+    "episode": 114,
+    "reward": 175.2499999999999,
+    "steps": 126
+  },
+  {
+    "episode": 115,
+    "reward": 496.2850000000011,
+    "steps": 196
+  },
+  {
+    "episode": 116,
+    "reward": -1.5499999999999687,
+    "steps": 40
+  },
+  {
+    "episode": 117,
+    "reward": -51.92,
+    "steps": 10
+  },
+  {
+    "episode": 118,
+    "reward": 293.63000000000017,
+    "steps": 200
+  },
+  {
+    "episode": 119,
+    "reward": 93.35000000000005,
+    "steps": 82
+  },
+  {
+    "episode": 120,
+    "reward": 360.97000000000077,
+    "steps": 195
+  },
+  {
+    "episode": 121,
+    "reward": 255.71000000000086,
+    "steps": 199
+  },
+  {
+    "episode": 122,
+    "reward": 66.9,
+    "steps": 60
+  },
+  {
+    "episode": 123,
+    "reward": 358.225000000001,
+    "steps": 200
+  },
+  {
+    "episode": 124,
+    "reward": 145.36000000000018,
+    "steps": 96
+  },
+  {
+    "episode": 125,
+    "reward": 40.81000000000002,
+    "steps": 57
+  },
+  {
+    "episode": 126,
+    "reward": 48.69000000000005,
+    "steps": 71
+  },
+  {
+    "episode": 127,
+    "reward": 387.5250000000007,
+    "steps": 200
+  },
+  {
+    "episode": 128,
+    "reward": 51.63500000000009,
+    "steps": 51
+  },
+  {
+    "episode": 129,
+    "reward": 67.98500000000001,
+    "steps": 57
+  },
+  {
+    "episode": 130,
+    "reward": 60.850000000000136,
+    "steps": 200
+  },
+  {
+    "episode": 131,
+    "reward": 137.45,
+    "steps": 99
+  },
+  {
+    "episode": 132,
+    "reward": 326.0000000000002,
+    "steps": 200
+  },
+  {
+    "episode": 133,
+    "reward": -37.25,
+    "steps": 19
+  },
+  {
+    "episode": 134,
+    "reward": -17.789999999999992,
+    "steps": 21
+  },
+  {
+    "episode": 135,
+    "reward": -0.1799999999999642,
+    "steps": 43
+  },
+  {
+    "episode": 136,
+    "reward": 147.52499999999992,
+    "steps": 103
+  },
+  {
+    "episode": 137,
+    "reward": 109.94500000000025,
+    "steps": 87
+  },
+  {
+    "episode": 138,
+    "reward": 484.16000000000014,
+    "steps": 200
+  },
+  {
+    "episode": 139,
+    "reward": 376.3700000000009,
+    "steps": 200
+  },
+  {
+    "episode": 140,
+    "reward": 376.5250000000003,
+    "steps": 198
+  },
+  {
+    "episode": 141,
+    "reward": 160.13499999999954,
+    "steps": 121
+  },
+  {
+    "episode": 142,
+    "reward": 135.67499999999984,
+    "steps": 87
+  },
+  {
+    "episode": 143,
+    "reward": 236.66999999999973,
+    "steps": 127
+  },
+  {
+    "episode": 144,
+    "reward": 182.06000000000006,
+    "steps": 69
+  },
+  {
+    "episode": 145,
+    "reward": -42.67,
+    "steps": 9
+  },
+  {
+    "episode": 146,
+    "reward": 10.005000000000003,
+    "steps": 32
+  },
+  {
+    "episode": 147,
+    "reward": 302.9250000000005,
+    "steps": 164
+  },
+  {
+    "episode": 148,
+    "reward": 329.2550000000001,
+    "steps": 200
+  },
+  {
+    "episode": 149,
+    "reward": -9.264999999999986,
+    "steps": 32
+  },
+  {
+    "episode": 150,
+    "reward": 233.37999999999994,
+    "steps": 134
+  },
+  {
+    "episode": 151,
+    "reward": -28.010000000000005,
+    "steps": 14
+  },
+  {
+    "episode": 152,
+    "reward": 114.62500000000017,
+    "steps": 70
+  },
+  {
+    "episode": 153,
+    "reward": 241.9100000000002,
+    "steps": 136
+  },
+  {
+    "episode": 154,
+    "reward": 244.55000000000013,
+    "steps": 107
+  },
+  {
+    "episode": 155,
+    "reward": 276.16000000000014,
+    "steps": 134
+  },
+  {
+    "episode": 156,
+    "reward": 32.99000000000004,
+    "steps": 46
+  },
+  {
+    "episode": 157,
+    "reward": 381.535000000001,
+    "steps": 200
+  },
+  {
+    "episode": 158,
+    "reward": -54.985,
+    "steps": 35
+  },
+  {
+    "episode": 159,
+    "reward": 484.51000000000073,
+    "steps": 200
+  },
+  {
+    "episode": 160,
+    "reward": 367.3900000000004,
+    "steps": 200
+  },
+  {
+    "episode": 161,
+    "reward": 351.585000000001,
+    "steps": 200
+  },
+  {
+    "episode": 162,
+    "reward": 461.66500000000093,
+    "steps": 200
+  },
+  {
+    "episode": 163,
+    "reward": 212.82999999999984,
+    "steps": 200
+  },
+  {
+    "episode": 164,
+    "reward": 533.8650000000009,
+    "steps": 200
+  },
+  {
+    "episode": 165,
+    "reward": 458.20500000000084,
+    "steps": 200
+  },
+  {
+    "episode": 166,
+    "reward": 476.22500000000065,
+    "steps": 200
+  },
+  {
+    "episode": 167,
+    "reward": 560.445000000001,
+    "steps": 200
+  },
+  {
+    "episode": 168,
+    "reward": 529.6400000000002,
+    "steps": 200
+  },
+  {
+    "episode": 169,
+    "reward": 146.95,
+    "steps": 108
+  },
+  {
+    "episode": 170,
+    "reward": 370.6750000000001,
+    "steps": 170
+  },
+  {
+    "episode": 171,
+    "reward": 300.77000000000027,
+    "steps": 124
+  },
+  {
+    "episode": 172,
+    "reward": -44.684999999999995,
+    "steps": 15
+  },
+  {
+    "episode": 173,
+    "reward": 105.20500000000024,
+    "steps": 77
+  },
+  {
+    "episode": 174,
+    "reward": 563.3100000000003,
+    "steps": 200
+  },
+  {
+    "episode": 175,
+    "reward": 466.3900000000011,
+    "steps": 200
+  },
+  {
+    "episode": 176,
+    "reward": 411.65000000000094,
+    "steps": 198
+  },
+  {
+    "episode": 177,
+    "reward": 219.34000000000015,
+    "steps": 98
+  },
+  {
+    "episode": 178,
+    "reward": 531.395000000001,
+    "steps": 200
+  },
+  {
+    "episode": 179,
+    "reward": 116.82499999999993,
+    "steps": 69
+  },
+  {
+    "episode": 180,
+    "reward": -29.209999999999994,
+    "steps": 19
+  },
+  {
+    "episode": 181,
+    "reward": 196.5349999999998,
+    "steps": 84
+  },
+  {
+    "episode": 182,
+    "reward": 491.4649999999997,
+    "steps": 201
+  },
+  {
+    "episode": 183,
+    "reward": 472.2050000000016,
+    "steps": 200
+  },
+  {
+    "episode": 184,
+    "reward": -37.275000000000006,
+    "steps": 22
+  },
+  {
+    "episode": 185,
+    "reward": 234.87499999999955,
+    "steps": 133
+  },
+  {
+    "episode": 186,
+    "reward": 471.79999999999956,
+    "steps": 200
+  },
+  {
+    "episode": 187,
+    "reward": 404.62000000000137,
+    "steps": 172
+  },
+  {
+    "episode": 188,
+    "reward": 139.5800000000001,
+    "steps": 72
+  },
+  {
+    "episode": 189,
+    "reward": 550.395,
+    "steps": 200
+  },
+  {
+    "episode": 190,
+    "reward": 450.11500000000154,
+    "steps": 200
+  },
+  {
+    "episode": 191,
+    "reward": 555.405000000001,
+    "steps": 200
+  },
+  {
+    "episode": 192,
+    "reward": 464.8400000000012,
+    "steps": 201
+  },
+  {
+    "episode": 193,
+    "reward": 449.35999999999973,
+    "steps": 200
+  },
+  {
+    "episode": 194,
+    "reward": 540.5000000000008,
+    "steps": 200
+  },
+  {
+    "episode": 195,
+    "reward": 469.94000000000125,
+    "steps": 194
+  },
+  {
+    "episode": 196,
+    "reward": 514.2750000000007,
+    "steps": 200
+  },
+  {
+    "episode": 197,
+    "reward": 430.3949999999993,
+    "steps": 200
+  },
+  {
+    "episode": 198,
+    "reward": 397.4599999999979,
+    "steps": 200
+  },
+  {
+    "episode": 199,
+    "reward": 475.3100000000012,
+    "steps": 200
+  },
+  {
+    "episode": 200,
+    "reward": -42.37,
+    "steps": 5
+  },
+  {
+    "episode": 201,
+    "reward": 27.67500000000001,
+    "steps": 28
+  },
+  {
+    "episode": 202,
+    "reward": 123.74999999999987,
+    "steps": 84
+  },
+  {
+    "episode": 203,
+    "reward": 66.16000000000003,
+    "steps": 39
+  },
+  {
+    "episode": 204,
+    "reward": 496.0050000000016,
+    "steps": 200
+  },
+  {
+    "episode": 205,
+    "reward": 520.9300000000006,
+    "steps": 200
+  },
+  {
+    "episode": 206,
+    "reward": 317.71500000000026,
+    "steps": 137
+  },
+  {
+    "episode": 207,
+    "reward": 19.445000000000007,
+    "steps": 29
+  },
+  {
+    "episode": 208,
+    "reward": 517.7600000000004,
+    "steps": 201
+  },
+  {
+    "episode": 209,
+    "reward": -3.190000000000005,
+    "steps": 21
+  },
+  {
+    "episode": 210,
+    "reward": 426.8549999999995,
+    "steps": 200
+  },
+  {
+    "episode": 211,
+    "reward": 525.6350000000001,
+    "steps": 200
+  },
+  {
+    "episode": 212,
+    "reward": 475.8100000000016,
+    "steps": 200
+  },
+  {
+    "episode": 213,
+    "reward": 181.9399999999996,
+    "steps": 83
+  },
+  {
+    "episode": 214,
+    "reward": -9.559999999999988,
+    "steps": 19
+  },
+  {
+    "episode": 215,
+    "reward": 78.71500000000015,
+    "steps": 51
+  },
+  {
+    "episode": 216,
+    "reward": 515.9850000000006,
+    "steps": 200
+  },
+  {
+    "episode": 217,
+    "reward": 465.5500000000006,
+    "steps": 199
+  },
+  {
+    "episode": 218,
+    "reward": 492.43500000000057,
+    "steps": 200
+  },
+  {
+    "episode": 219,
+    "reward": 144.35999999999984,
+    "steps": 72
+  },
+  {
+    "episode": 220,
+    "reward": 108.83999999999985,
+    "steps": 73
+  },
+  {
+    "episode": 221,
+    "reward": 514.0750000000006,
+    "steps": 200
+  },
+  {
+    "episode": 222,
+    "reward": 520.2100000000011,
+    "steps": 200
+  },
+  {
+    "episode": 223,
+    "reward": 565.2949999999996,
+    "steps": 200
+  },
+  {
+    "episode": 224,
+    "reward": 355.0950000000003,
+    "steps": 200
+  },
+  {
+    "episode": 225,
+    "reward": 613.15,
+    "steps": 200
+  },
+  {
+    "episode": 226,
+    "reward": 449.64000000000095,
+    "steps": 200
+  },
+  {
+    "episode": 227,
+    "reward": 546.0749999999999,
+    "steps": 200
+  },
+  {
+    "episode": 228,
+    "reward": 531.695000000001,
+    "steps": 200
+  },
+  {
+    "episode": 229,
+    "reward": 535.7750000000009,
+    "steps": 200
+  },
+  {
+    "episode": 230,
+    "reward": -42.2,
+    "steps": 9
+  },
+  {
+    "episode": 231,
+    "reward": 569.6450000000002,
+    "steps": 201
+  },
+  {
+    "episode": 232,
+    "reward": 544.7800000000013,
+    "steps": 201
+  },
+  {
+    "episode": 233,
+    "reward": 564.0500000000001,
+    "steps": 200
+  },
+  {
+    "episode": 234,
+    "reward": 534.3200000000005,
+    "steps": 200
+  },
+  {
+    "episode": 235,
+    "reward": 474.7900000000012,
+    "steps": 201
+  },
+  {
+    "episode": 236,
+    "reward": 531.9450000000004,
+    "steps": 199
+  },
+  {
+    "episode": 237,
+    "reward": 562.1750000000002,
+    "steps": 200
+  },
+  {
+    "episode": 238,
+    "reward": 554.8149999999996,
+    "steps": 200
+  },
+  {
+    "episode": 239,
+    "reward": -12.100000000000001,
+    "steps": 17
+  },
+  {
+    "episode": 240,
+    "reward": 525.0,
+    "steps": 200
+  },
+  {
+    "episode": 241,
+    "reward": 579.9799999999999,
+    "steps": 200
+  },
+  {
+    "episode": 242,
+    "reward": 112.94500000000016,
+    "steps": 48
+  },
+  {
+    "episode": 243,
+    "reward": 212.35499999999956,
+    "steps": 90
+  },
+  {
+    "episode": 244,
+    "reward": 560.8200000000012,
+    "steps": 200
+  },
+  {
+    "episode": 245,
+    "reward": 568.9299999999997,
+    "steps": 201
+  },
+  {
+    "episode": 246,
+    "reward": 550.1050000000002,
+    "steps": 200
+  },
+  {
+    "episode": 247,
+    "reward": 515.6050000000005,
+    "steps": 200
+  },
+  {
+    "episode": 248,
+    "reward": 481.21500000000066,
+    "steps": 195
+  },
+  {
+    "episode": 249,
+    "reward": 157.2049999999997,
+    "steps": 71
+  },
+  {
+    "episode": 250,
+    "reward": 495.1250000000006,
+    "steps": 201
+  },
+  {
+    "episode": 251,
+    "reward": 97.17999999999999,
+    "steps": 51
+  },
+  {
+    "episode": 252,
+    "reward": 596.569999999999,
+    "steps": 200
+  },
+  {
+    "episode": 253,
+    "reward": 49.78500000000005,
+    "steps": 36
+  },
+  {
+    "episode": 254,
+    "reward": 479.19500000000096,
+    "steps": 200
+  },
+  {
+    "episode": 255,
+    "reward": 559.8199999999997,
+    "steps": 200
+  },
+  {
+    "episode": 256,
+    "reward": 537.0100000000001,
+    "steps": 200
+  },
+  {
+    "episode": 257,
+    "reward": 589.1549999999988,
+    "steps": 200
+  },
+  {
+    "episode": 258,
+    "reward": 526.8500000000006,
+    "steps": 201
+  },
+  {
+    "episode": 259,
+    "reward": 614.2649999999973,
+    "steps": 200
+  },
+  {
+    "episode": 260,
+    "reward": 637.6499999999988,
+    "steps": 200
+  },
+  {
+    "episode": 261,
+    "reward": 568.9799999999991,
+    "steps": 200
+  },
+  {
+    "episode": 262,
+    "reward": 393.995000000001,
+    "steps": 156
+  },
+  {
+    "episode": 263,
+    "reward": 573.9449999999997,
+    "steps": 200
+  },
+  {
+    "episode": 264,
+    "reward": 582.3949999999988,
+    "steps": 200
+  },
+  {
+    "episode": 265,
+    "reward": 284.14500000000027,
+    "steps": 115
+  },
+  {
+    "episode": 266,
+    "reward": 666.2949999999996,
+    "steps": 200
+  },
+  {
+    "episode": 267,
+    "reward": 533.9350000000001,
+    "steps": 200
+  },
+  {
+    "episode": 268,
+    "reward": 546.9850000000002,
+    "steps": 200
+  },
+  {
+    "episode": 269,
+    "reward": 408.88500000000147,
+    "steps": 200
+  },
+  {
+    "episode": 270,
+    "reward": -46.405,
+    "steps": 27
+  },
+  {
+    "episode": 271,
+    "reward": 367.45000000000084,
+    "steps": 140
+  },
+  {
+    "episode": 272,
+    "reward": 103.54499999999992,
+    "steps": 54
+  },
+  {
+    "episode": 273,
+    "reward": 532.0200000000009,
+    "steps": 200
+  },
+  {
+    "episode": 274,
+    "reward": 575.075,
+    "steps": 200
+  },
+  {
+    "episode": 275,
+    "reward": 59.99000000000004,
+    "steps": 37
+  },
+  {
+    "episode": 276,
+    "reward": 487.0300000000016,
+    "steps": 200
+  },
+  {
+    "episode": 277,
+    "reward": 580.100000000001,
+    "steps": 200
+  },
+  {
+    "episode": 278,
+    "reward": 332.77,
+    "steps": 200
+  },
+  {
+    "episode": 279,
+    "reward": -90.30999999999983,
+    "steps": 150
+  },
+  {
+    "episode": 280,
+    "reward": 588.9949999999986,
+    "steps": 200
+  },
+  {
+    "episode": 281,
+    "reward": 69.09000000000005,
+    "steps": 37
+  },
+  {
+    "episode": 282,
+    "reward": 635.1249999999994,
+    "steps": 200
+  },
+  {
+    "episode": 283,
+    "reward": 381.2000000000003,
+    "steps": 161
+  },
+  {
+    "episode": 284,
+    "reward": 159.65999999999974,
+    "steps": 66
+  },
+  {
+    "episode": 285,
+    "reward": 557.8849999999998,
+    "steps": 200
+  },
+  {
+    "episode": 286,
+    "reward": 290.38000000000056,
+    "steps": 200
+  },
+  {
+    "episode": 287,
+    "reward": 175.9649999999997,
+    "steps": 78
+  },
+  {
+    "episode": 288,
+    "reward": 337.7250000000004,
+    "steps": 200
+  },
+  {
+    "episode": 289,
+    "reward": 632.5499999999994,
+    "steps": 200
+  },
+  {
+    "episode": 290,
+    "reward": 352.7800000000006,
+    "steps": 123
+  },
+  {
+    "episode": 291,
+    "reward": 573.2849999999994,
+    "steps": 200
+  },
+  {
+    "episode": 292,
+    "reward": -13.464999999999996,
+    "steps": 26
+  },
+  {
+    "episode": 293,
+    "reward": 352.120000000001,
+    "steps": 139
+  },
+  {
+    "episode": 294,
+    "reward": 552.9750000000006,
+    "steps": 200
+  },
+  {
+    "episode": 295,
+    "reward": 639.7499999999986,
+    "steps": 200
+  },
+  {
+    "episode": 296,
+    "reward": 568.6400000000002,
+    "steps": 200
+  },
+  {
+    "episode": 297,
+    "reward": 292.31000000000006,
+    "steps": 103
+  },
+  {
+    "episode": 298,
+    "reward": 473.3750000000006,
+    "steps": 196
+  },
+  {
+    "episode": 299,
+    "reward": 581.5599999999996,
+    "steps": 200
+  },
+  {
+    "episode": 300,
+    "reward": 647.9599999999995,
+    "steps": 200
+  },
+  {
+    "episode": 301,
+    "reward": 674.0499999999994,
+    "steps": 200
+  },
+  {
+    "episode": 302,
+    "reward": 181.0499999999996,
+    "steps": 86
+  },
+  {
+    "episode": 303,
+    "reward": 601.4599999999996,
+    "steps": 200
+  },
+  {
+    "episode": 304,
+    "reward": 642.7299999999998,
+    "steps": 200
+  },
+  {
+    "episode": 305,
+    "reward": 578.8549999999993,
+    "steps": 200
+  },
+  {
+    "episode": 306,
+    "reward": 623.625,
+    "steps": 200
+  },
+  {
+    "episode": 307,
+    "reward": 618.2949999999993,
+    "steps": 200
+  },
+  {
+    "episode": 308,
+    "reward": 593.2799999999997,
+    "steps": 200
+  },
+  {
+    "episode": 309,
+    "reward": 600.1999999999986,
+    "steps": 200
+  },
+  {
+    "episode": 310,
+    "reward": 595.0750000000007,
+    "steps": 200
+  },
+  {
+    "episode": 311,
+    "reward": 267.6350000000005,
+    "steps": 101
+  },
+  {
+    "episode": 312,
+    "reward": 555.0749999999972,
+    "steps": 200
+  },
+  {
+    "episode": 313,
+    "reward": 642.7299999999999,
+    "steps": 200
+  },
+  {
+    "episode": 314,
+    "reward": 605.7900000000005,
+    "steps": 200
+  },
+  {
+    "episode": 315,
+    "reward": 606.0050000000002,
+    "steps": 200
+  },
+  {
+    "episode": 316,
+    "reward": 616.8700000000005,
+    "steps": 200
+  },
+  {
+    "episode": 317,
+    "reward": 598.785,
+    "steps": 201
+  },
+  {
+    "episode": 318,
+    "reward": 607.0450000000002,
+    "steps": 200
+  },
+  {
+    "episode": 319,
+    "reward": 366.8050000000007,
+    "steps": 130
+  },
+  {
+    "episode": 320,
+    "reward": 611.5799999999999,
+    "steps": 200
+  },
+  {
+    "episode": 321,
+    "reward": 533.4550000000011,
+    "steps": 200
+  },
+  {
+    "episode": 322,
+    "reward": 639.2650000000003,
+    "steps": 200
+  },
+  {
+    "episode": 323,
+    "reward": 98.80000000000005,
+    "steps": 52
+  },
+  {
+    "episode": 324,
+    "reward": 674.8999999999996,
+    "steps": 200
+  },
+  {
+    "episode": 325,
+    "reward": 616.0649999999995,
+    "steps": 200
+  },
+  {
+    "episode": 326,
+    "reward": 622.5350000000002,
+    "steps": 200
+  },
+  {
+    "episode": 327,
+    "reward": 260.85499999999985,
+    "steps": 97
+  },
+  {
+    "episode": 328,
+    "reward": 595.4600000000005,
+    "steps": 200
+  },
+  {
+    "episode": 329,
+    "reward": 647.084999999998,
+    "steps": 200
+  },
+  {
+    "episode": 330,
+    "reward": 650.3999999999988,
+    "steps": 200
+  },
+  {
+    "episode": 331,
+    "reward": 366.3300000000002,
+    "steps": 143
+  },
+  {
+    "episode": 332,
+    "reward": 622.2349999999997,
+    "steps": 200
+  },
+  {
+    "episode": 333,
+    "reward": 639.2549999999999,
+    "steps": 200
+  },
+  {
+    "episode": 334,
+    "reward": 590.5649999999997,
+    "steps": 200
+  },
+  {
+    "episode": 335,
+    "reward": 621.0750000000003,
+    "steps": 200
+  },
+  {
+    "episode": 336,
+    "reward": 359.1050000000004,
+    "steps": 134
+  },
+  {
+    "episode": 337,
+    "reward": 611.7450000000005,
+    "steps": 200
+  },
+  {
+    "episode": 338,
+    "reward": 606.6499999999986,
+    "steps": 200
+  },
+  {
+    "episode": 339,
+    "reward": 260.48500000000047,
+    "steps": 96
+  },
+  {
+    "episode": 340,
+    "reward": 672.1099999999981,
+    "steps": 200
+  },
+  {
+    "episode": 341,
+    "reward": 361.8450000000006,
+    "steps": 126
+  },
+  {
+    "episode": 342,
+    "reward": 665.889999999998,
+    "steps": 200
+  },
+  {
+    "episode": 343,
+    "reward": 463.1750000000007,
+    "steps": 149
+  },
+  {
+    "episode": 344,
+    "reward": 112.52499999999999,
+    "steps": 52
+  },
+  {
+    "episode": 345,
+    "reward": 680.3999999999984,
+    "steps": 200
+  },
+  {
+    "episode": 346,
+    "reward": 175.14000000000013,
+    "steps": 70
+  },
+  {
+    "episode": 347,
+    "reward": 355.65999999999997,
+    "steps": 71
+  },
+  {
+    "episode": 348,
+    "reward": 667.0249999999993,
+    "steps": 200
+  },
+  {
+    "episode": 349,
+    "reward": 176.25499999999965,
+    "steps": 74
+  },
+  {
+    "episode": 350,
+    "reward": 287.4500000000004,
+    "steps": 128
+  },
+  {
+    "episode": 351,
+    "reward": 663.2499999999995,
+    "steps": 200
+  },
+  {
+    "episode": 352,
+    "reward": 544.09,
+    "steps": 203
+  },
+  {
+    "episode": 353,
+    "reward": 112.66500000000019,
+    "steps": 52
+  },
+  {
+    "episode": 354,
+    "reward": 59.265000000000086,
+    "steps": 32
+  },
+  {
+    "episode": 355,
+    "reward": 375.33500000000066,
+    "steps": 131
+  },
+  {
+    "episode": 356,
+    "reward": 656.0949999999999,
+    "steps": 200
+  },
+  {
+    "episode": 357,
+    "reward": 640.0699999999998,
+    "steps": 200
+  },
+  {
+    "episode": 358,
+    "reward": 321.21500000000066,
+    "steps": 200
+  },
+  {
+    "episode": 359,
+    "reward": 10.195,
+    "steps": 23
+  },
+  {
+    "episode": 360,
+    "reward": 616.7649999999998,
+    "steps": 200
+  },
+  {
+    "episode": 361,
+    "reward": 536.0850000000007,
+    "steps": 200
+  },
+  {
+    "episode": 362,
+    "reward": 664.0299999999996,
+    "steps": 200
+  },
+  {
+    "episode": 363,
+    "reward": 650.8299999999997,
+    "steps": 200
+  },
+  {
+    "episode": 364,
+    "reward": 653.6449999999999,
+    "steps": 200
+  },
+  {
+    "episode": 365,
+    "reward": 326.4650000000006,
+    "steps": 125
+  },
+  {
+    "episode": 366,
+    "reward": 688.0999999999982,
+    "steps": 200
+  },
+  {
+    "episode": 367,
+    "reward": 665.9149999999993,
+    "steps": 200
+  },
+  {
+    "episode": 368,
+    "reward": 665.3099999999981,
+    "steps": 200
+  },
+  {
+    "episode": 369,
+    "reward": 527.8299999999999,
+    "steps": 200
+  },
+  {
+    "episode": 370,
+    "reward": 511.9199999999998,
+    "steps": 158
+  },
+  {
+    "episode": 371,
+    "reward": -18.560000000000002,
+    "steps": 13
+  },
+  {
+    "episode": 372,
+    "reward": 639.4149999999997,
+    "steps": 200
+  },
+  {
+    "episode": 373,
+    "reward": 616.3099999999986,
+    "steps": 200
+  },
+  {
+    "episode": 374,
+    "reward": 647.1099999999984,
+    "steps": 200
+  },
+  {
+    "episode": 375,
+    "reward": 648.7999999999988,
+    "steps": 200
+  },
+  {
+    "episode": 376,
+    "reward": 640.3149999999983,
+    "steps": 200
+  },
+  {
+    "episode": 377,
+    "reward": 665.27,
+    "steps": 200
+  },
+  {
+    "episode": 378,
+    "reward": 45.96500000000003,
+    "steps": 32
+  },
+  {
+    "episode": 379,
+    "reward": 103.46500000000017,
+    "steps": 52
+  },
+  {
+    "episode": 380,
+    "reward": 643.4899999999998,
+    "steps": 200
+  },
+  {
+    "episode": 381,
+    "reward": 673.9349999999997,
+    "steps": 200
+  },
+  {
+    "episode": 382,
+    "reward": 577.4999999999995,
+    "steps": 200
+  },
+  {
+    "episode": 383,
+    "reward": 631.2999999999992,
+    "steps": 200
+  },
+  {
+    "episode": 384,
+    "reward": 690.0249999999976,
+    "steps": 200
+  },
+  {
+    "episode": 385,
+    "reward": -11.474999999999994,
+    "steps": 14
+  },
+  {
+    "episode": 386,
+    "reward": 66.4550000000001,
+    "steps": 35
+  },
+  {
+    "episode": 387,
+    "reward": 103.56000000000012,
+    "steps": 53
+  },
+  {
+    "episode": 388,
+    "reward": 535.0549999999992,
+    "steps": 170
+  },
+  {
+    "episode": 389,
+    "reward": 227.0500000000004,
+    "steps": 91
+  },
+  {
+    "episode": 390,
+    "reward": 712.5099999999995,
+    "steps": 200
+  },
+  {
+    "episode": 391,
+    "reward": 600.0149999999987,
+    "steps": 200
+  },
+  {
+    "episode": 392,
+    "reward": 592.7349999999992,
+    "steps": 191
+  },
+  {
+    "episode": 393,
+    "reward": 688.3099999999986,
+    "steps": 200
+  },
+  {
+    "episode": 394,
+    "reward": 656.79,
+    "steps": 200
+  },
+  {
+    "episode": 395,
+    "reward": 91.46,
+    "steps": 48
+  },
+  {
+    "episode": 396,
+    "reward": 640.9349999999987,
+    "steps": 200
+  },
+  {
+    "episode": 397,
+    "reward": 28.285000000000025,
+    "steps": 33
+  },
+  {
+    "episode": 398,
+    "reward": 659.0099999999978,
+    "steps": 200
+  },
+  {
+    "episode": 399,
+    "reward": 627.1949999999982,
+    "steps": 200
+  },
+  {
+    "episode": 400,
+    "reward": 641.9999999999987,
+    "steps": 200
+  },
+  {
+    "episode": 401,
+    "reward": 707.1449999999992,
+    "steps": 200
+  },
+  {
+    "episode": 402,
+    "reward": 657.8299999999988,
+    "steps": 200
+  },
+  {
+    "episode": 403,
+    "reward": -35.864999999999995,
+    "steps": 11
+  },
+  {
+    "episode": 404,
+    "reward": 489.5250000000004,
+    "steps": 154
+  },
+  {
+    "episode": 405,
+    "reward": 21.79000000000002,
+    "steps": 43
+  },
+  {
+    "episode": 406,
+    "reward": 688.974999999998,
+    "steps": 200
+  },
+  {
+    "episode": 407,
+    "reward": 539.0000000000005,
+    "steps": 200
+  },
+  {
+    "episode": 408,
+    "reward": 339.2250000000006,
+    "steps": 114
+  },
+  {
+    "episode": 409,
+    "reward": 378.4100000000003,
+    "steps": 124
+  },
+  {
+    "episode": 410,
+    "reward": 458.54000000000025,
+    "steps": 142
+  },
+  {
+    "episode": 411,
+    "reward": 631.9549999999992,
+    "steps": 200
+  },
+  {
+    "episode": 412,
+    "reward": 307.85500000000013,
+    "steps": 106
+  },
+  {
+    "episode": 413,
+    "reward": 665.8349999999989,
+    "steps": 200
+  },
+  {
+    "episode": 414,
+    "reward": 690.2599999999977,
+    "steps": 200
+  },
+  {
+    "episode": 415,
+    "reward": 374.10000000000025,
+    "steps": 123
+  },
+  {
+    "episode": 416,
+    "reward": 404.2350000000006,
+    "steps": 131
+  },
+  {
+    "episode": 417,
+    "reward": 679.2499999999993,
+    "steps": 200
+  },
+  {
+    "episode": 418,
+    "reward": 340.6350000000002,
+    "steps": 111
+  },
+  {
+    "episode": 419,
+    "reward": 6.270000000000017,
+    "steps": 21
+  },
+  {
+    "episode": 420,
+    "reward": 671.9549999999987,
+    "steps": 200
+  },
+  {
+    "episode": 421,
+    "reward": 607.899999999999,
+    "steps": 200
+  },
+  {
+    "episode": 422,
+    "reward": 676.7299999999984,
+    "steps": 200
+  },
+  {
+    "episode": 423,
+    "reward": 666.409999999999,
+    "steps": 200
+  },
+  {
+    "episode": 424,
+    "reward": 631.2049999999991,
+    "steps": 200
+  },
+  {
+    "episode": 425,
+    "reward": 86.21499999999997,
+    "steps": 72
+  },
+  {
+    "episode": 426,
+    "reward": 222.93999999999966,
+    "steps": 85
+  },
+  {
+    "episode": 427,
+    "reward": 642.7149999999997,
+    "steps": 200
+  },
+  {
+    "episode": 428,
+    "reward": -49.48500000000001,
+    "steps": 2
+  },
+  {
+    "episode": 429,
+    "reward": -89.75499999999988,
+    "steps": 172
+  },
+  {
+    "episode": 430,
+    "reward": -50.90500000000001,
+    "steps": 10
+  },
+  {
+    "episode": 431,
+    "reward": -50.980000000000004,
+    "steps": 9
+  },
+  {
+    "episode": 432,
+    "reward": -93.95500000000015,
+    "steps": 124
+  },
+  {
+    "episode": 433,
+    "reward": -56.045000000000016,
+    "steps": 26
+  },
+  {
+    "episode": 434,
+    "reward": -106.07500000000027,
+    "steps": 182
+  },
+  {
+    "episode": 435,
+    "reward": -70.75500000000004,
+    "steps": 45
+  },
+  {
+    "episode": 436,
+    "reward": -59.17,
+    "steps": 28
+  },
+  {
+    "episode": 437,
+    "reward": -54.39,
+    "steps": 14
+  },
+  {
+    "episode": 438,
+    "reward": -124.29999999999971,
+    "steps": 300
+  },
+  {
+    "episode": 439,
+    "reward": -53.33,
+    "steps": 12
+  },
+  {
+    "episode": 440,
+    "reward": -62.82500000000001,
+    "steps": 37
+  },
+  {
+    "episode": 441,
+    "reward": -104.77500000000035,
+    "steps": 202
+  },
+  {
+    "episode": 442,
+    "reward": -61.03,
+    "steps": 34
+  },
+  {
+    "episode": 443,
+    "reward": -102.70000000000039,
+    "steps": 300
+  },
+  {
+    "episode": 444,
+    "reward": -69.96500000000005,
+    "steps": 74
+  },
+  {
+    "episode": 445,
+    "reward": -55.14499999999996,
+    "steps": 86
+  },
+  {
+    "episode": 446,
+    "reward": -110.08500000000029,
+    "steps": 232
+  },
+  {
+    "episode": 447,
+    "reward": -72.88500000000008,
+    "steps": 142
+  },
+  {
+    "episode": 448,
+    "reward": -54.26500000000002,
+    "steps": 33
+  },
+  {
+    "episode": 449,
+    "reward": -77.85999999999997,
+    "steps": 111
+  },
+  {
+    "episode": 450,
+    "reward": -53.48500000000003,
+    "steps": 63
+  },
+  {
+    "episode": 451,
+    "reward": -85.59000000000049,
+    "steps": 301
+  },
+  {
+    "episode": 452,
+    "reward": -62.245000000000026,
+    "steps": 67
+  },
+  {
+    "episode": 453,
+    "reward": -50.400000000000375,
+    "steps": 300
+  },
+  {
+    "episode": 454,
+    "reward": -59.565000000000026,
+    "steps": 54
+  },
+  {
+    "episode": 455,
+    "reward": -59.28500000000001,
+    "steps": 33
+  },
+  {
+    "episode": 456,
+    "reward": -80.7000000000005,
+    "steps": 300
+  },
+  {
+    "episode": 457,
+    "reward": -62.175000000000026,
+    "steps": 63
+  },
+  {
+    "episode": 458,
+    "reward": -66.2000000000005,
+    "steps": 300
+  },
+  {
+    "episode": 459,
+    "reward": -52.03500000000001,
+    "steps": 7
+  },
+  {
+    "episode": 460,
+    "reward": -81.88500000000013,
+    "steps": 123
+  },
+  {
+    "episode": 461,
+    "reward": -105.09999999999994,
+    "steps": 300
+  },
+  {
+    "episode": 462,
+    "reward": -51.81500000000001,
+    "steps": 20
+  },
+  {
+    "episode": 463,
+    "reward": -82.10000000000048,
+    "steps": 300
+  },
+  {
+    "episode": 464,
+    "reward": -86.13500000000019,
+    "steps": 146
+  },
+  {
+    "episode": 465,
+    "reward": -99.75500000000018,
+    "steps": 134
+  },
+  {
+    "episode": 466,
+    "reward": -58.25500000000002,
+    "steps": 25
+  },
+  {
+    "episode": 467,
+    "reward": -70.80000000000041,
+    "steps": 300
+  },
+  {
+    "episode": 468,
+    "reward": -115.885,
+    "steps": 300
+  },
+  {
+    "episode": 469,
+    "reward": -129.8950000000002,
+    "steps": 271
+  },
+  {
+    "episode": 470,
+    "reward": -120.43500000000027,
+    "steps": 246
+  },
+  {
+    "episode": 471,
+    "reward": -94.6000000000003,
+    "steps": 300
+  },
+  {
+    "episode": 472,
+    "reward": -87.9000000000004,
+    "steps": 300
+  },
+  {
+    "episode": 473,
+    "reward": -109.30499999999984,
+    "steps": 300
+  },
+  {
+    "episode": 474,
+    "reward": -80.73500000000013,
+    "steps": 300
+  },
+  {
+    "episode": 475,
+    "reward": -135.88000000000036,
+    "steps": 302
+  },
+  {
+    "episode": 476,
+    "reward": -58.54500000000001,
+    "steps": 41
+  },
+  {
+    "episode": 477,
+    "reward": -122.28500000000031,
+    "steps": 262
+  },
+  {
+    "episode": 478,
+    "reward": -98.22500000000024,
+    "steps": 207
+  },
+  {
+    "episode": 479,
+    "reward": -103.15,
+    "steps": 196
+  },
+  {
+    "episode": 480,
+    "reward": -109.22999999999959,
+    "steps": 300
+  },
+  {
+    "episode": 481,
+    "reward": -90.70000000000022,
+    "steps": 300
+  },
+  {
+    "episode": 482,
+    "reward": -105.40000000000012,
+    "steps": 300
+  },
+  {
+    "episode": 483,
+    "reward": -81.70000000000033,
+    "steps": 300
+  },
+  {
+    "episode": 484,
+    "reward": -97.70000000000039,
+    "steps": 300
+  },
+  {
+    "episode": 485,
+    "reward": -87.1450000000002,
+    "steps": 272
+  },
+  {
+    "episode": 486,
+    "reward": -76.90000000000026,
+    "steps": 300
+  },
+  {
+    "episode": 487,
+    "reward": -64.30000000000025,
+    "steps": 300
+  },
+  {
+    "episode": 488,
+    "reward": -77.20000000000047,
+    "steps": 300
+  },
+  {
+    "episode": 489,
+    "reward": -66.4000000000004,
+    "steps": 300
+  },
+  {
+    "episode": 490,
+    "reward": -61.90000000000021,
+    "steps": 300
+  },
+  {
+    "episode": 491,
+    "reward": -62.30000000000026,
+    "steps": 300
+  },
+  {
+    "episode": 492,
+    "reward": -49.48500000000001,
+    "steps": 2
+  },
+  {
+    "episode": 493,
+    "reward": -87.09000000000046,
+    "steps": 301
+  },
+  {
+    "episode": 494,
+    "reward": -47.60000000000022,
+    "steps": 300
+  },
+  {
+    "episode": 495,
+    "reward": -71.90000000000047,
+    "steps": 300
+  },
+  {
+    "episode": 496,
+    "reward": -43.40000000000036,
+    "steps": 300
+  },
+  {
+    "episode": 497,
+    "reward": -57.6000000000004,
+    "steps": 300
+  },
+  {
+    "episode": 498,
+    "reward": -259.42500000000035,
+    "steps": 308
+  },
+  {
+    "episode": 499,
+    "reward": -67.65500000000006,
+    "steps": 85
+  },
+  {
+    "episode": 500,
+    "reward": -123.22000000000043,
+    "steps": 300
+  }
+]

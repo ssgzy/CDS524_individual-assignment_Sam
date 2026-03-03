@@ -1,0 +1,27 @@
+🚀 Rainbow DQN using device: cpu
+================================================================================
+🎮 Training Rainbow DQN on Level 3
+================================================================================
+📊 Configuration:
+   - Episodes: 2000
+   - Batch size: 64
+   - N-step: 3
+   - Noisy Networks: True
+   - Curiosity: True
+   - Device: cpu
+================================================================================
+Traceback (most recent call last):
+  File "/Users/sam/Documents/Documents - sam的MacBook Pro/LU课程资料/CDS524 Machine Learning for Business/individual assignment/train_rainbow.py", line 236, in <module>
+    main()
+  File "/Users/sam/Documents/Documents - sam的MacBook Pro/LU课程资料/CDS524 Machine Learning for Business/individual assignment/train_rainbow.py", line 226, in main
+    train_rainbow_dqn(
+  File "/Users/sam/Documents/Documents - sam的MacBook Pro/LU课程资料/CDS524 Machine Learning for Business/individual assignment/train_rainbow.py", line 72, in train_rainbow_dqn
+    state = env.reset()
+            ^^^^^^^^^^^
+  File "/Users/sam/Documents/Documents - sam的MacBook Pro/LU课程资料/CDS524 Machine Learning for Business/individual assignment/ai/enhanced_env.py", line 37, in reset
+    return self._get_cnn_state()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/sam/Documents/Documents - sam的MacBook Pro/LU课程资料/CDS524 Machine Learning for Business/individual assignment/ai/enhanced_env.py", line 142, in _get_cnn_state
+    elif portal.exit == (world_x, world_y):
+         ^^^^^^^^^^^
+AttributeError: 'PortalPair' object has no attribute 'exit'

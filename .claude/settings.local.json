@@ -1,0 +1,32 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(wc:*)",
+      "Bash(python3:*)",
+      "Bash(conda env:*)",
+      "Bash(source:*)",
+      "Bash(chmod +x:*)",
+      "Bash(./QUICK_START.sh:*)",
+      "Bash(./show_training_options.sh:*)",
+      "Bash(mkdir:*)",
+      "Bash(mv:*)",
+      "Bash(ls:*)",
+      "Bash(rm:*)",
+      "Bash(\"/Users/sam/Documents/Documents - sam的MacBook Pro/LU课程资料/CDS524 Machine Learning for Business/individual assignment/scripts/train_fast.sh\":*)",
+      "Bash(\"/Users/sam/Documents/Documents - sam的MacBook Pro/LU课程资料/CDS524 Machine Learning for Business/individual assignment/scripts/train_slow.sh\":*)",
+      "Bash(\"/Users/sam/Documents/Documents - sam的MacBook Pro/LU课程资料/CDS524 Machine Learning for Business/individual assignment/scripts/train_no_viz.sh\":*)",
+      "Bash(\"/Users/sam/Documents/Documents - sam的MacBook Pro/LU课程资料/CDS524 Machine Learning for Business/individual assignment/scripts/test_new_renderer.sh\":*)",
+      "Bash(timeout 30 python:*)",
+      "Bash(python:*)",
+      "Bash(timeout 600 python:*)",
+      "Bash(conda run:*)",
+      "Bash(pkill:*)",
+      "Bash(kill 38811:*)",
+      "Bash(then tail:*)",
+      "Bash(ps:*)",
+      "Bash(./check_training_status.sh:*)",
+      "Bash(kill:*)",
+      "Bash(\"/Users/sam/Documents/Documents - sam的MacBook Pro/LU课程资料/CDS524 Machine Learning for Business/individual assignment/check_level3_enhanced.sh\")"
+    ]
+  }
+}
