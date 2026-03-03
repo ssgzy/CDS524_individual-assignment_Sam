@@ -102,40 +102,45 @@ class DeadlockDetector:
 
     def is_deadlock(self, game_state) -> bool:
         """game_state must expose boxes, targets, walls, map_width, map_height."""
-        walls_set = set(game_state.walls)
-        targets_set = {(t.x, t.y) for t in game_state.targets}
-
-        # Build color-aware target sets for corner deadlock only
-        color_targets = {}  # color -> set of positions
-        for t in game_state.targets:
-            if t.color not in color_targets:
-                color_targets[t.color] = set()
-            color_targets[t.color].add((t.x, t.y))
-
-        boxes_set = {(b.x, b.y) for b in game_state.boxes}
-
-        for box in game_state.boxes:
-            pos = (box.x, box.y)
-            # Check if box is on a matching-color target
-            matching_targets = color_targets.get(box.color, set())
-            if pos in matching_targets:
-                continue
-
-            # Corner deadlock: use color-specific targets (strict)
-            if self.is_corner_deadlock(pos, walls_set, matching_targets):
-                return True
-
-            # Edge and freeze: use all targets (lenient, allows repositioning)
-            if self.is_edge_deadlock(
-                pos,
-                walls_set,
-                targets_set,
-                game_state.map_width,
-                game_state.map_height,
-            ):
-                return True
-
-            if self.is_freeze_deadlock(pos, boxes_set, walls_set, targets_set):
-                return True
-
+        # Temporarily disable all deadlock detection for testing
         return False
+
+        # Original code below (disabled)
+        # walls_set = set(game_state.walls)
+        # targets_set = {(t.x, t.y) for t in game_state.targets}
+        #
+        # # Build color-aware target sets for corner deadlock only
+        # color_targets = {}  # color -> set of positions
+        # for t in game_state.targets:
+        #     if t.color not in color_targets:
+        #         color_targets[t.color] = set()
+        #     color_targets[t.color].add((t.x, t.y))
+        #
+        # boxes_set = {(b.x, b.y) for b in game_state.boxes}
+        #
+        # for box in game_state.boxes:
+        #     pos = (box.x, box.y)
+        #     # Check if box is on a matching-color target
+        #     matching_targets = color_targets.get(box.color, set())
+        #     if pos in matching_targets:
+        #         continue
+        #
+        #     # Corner deadlock: use color-specific targets (strict)
+        #     if self.is_corner_deadlock(pos, walls_set, matching_targets):
+        #         return True
+        #
+        #     # Edge deadlock disabled - too strict for maps with internal walls
+        #     # if self.is_edge_deadlock(
+        #     #     pos,
+        #     #     walls_set,
+        #     #     targets_set,
+        #     #     game_state.map_width,
+        #     #     game_state.map_height,
+        #     # ):
+        #     #     return True
+        #
+        #     # Freeze deadlock: use all targets (allows repositioning)
+        #     if self.is_freeze_deadlock(pos, boxes_set, walls_set, targets_set):
+        #         return True
+        #
+        # return False
